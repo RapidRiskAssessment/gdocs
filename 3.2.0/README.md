@@ -1,0 +1,2 @@
+- RRA.gs are the utilities for the Google Doc
+- RRA_Parsing.gs is the parser which fills in multiple RRAs into a spreadsheet

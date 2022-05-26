@@ -3,6 +3,9 @@
 These templates are meant to be used with Google Docs. To use them, please import the .odt files to your own drive, and
 add the corresponding AppScript and HTML files (you can do so in the Google Docs extension menu).
 
+There is also an AppScript file that is to be similarly inserted into a Google Spreadsheet, it is used for parsing
+several/all RRA files you create into a table, for querying purposes.
+
 You may need to customize the files to your own specific needs.
 
 ## RRA versions
